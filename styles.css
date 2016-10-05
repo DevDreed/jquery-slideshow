@@ -1,0 +1,21 @@
+ul li{
+  display: inline;
+}
+
+ul {
+  text-decoration: none;
+}
+
+#slideshow {
+  width: 500px;
+  height: 360px;
+}
+
+img {
+  width: 500px;
+  height: 300px;
+}
+
+.imageContainer{
+  height:360px;
+}
